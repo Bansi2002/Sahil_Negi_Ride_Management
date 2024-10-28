@@ -1,0 +1,101 @@
+[
+ {
+  "booking_date": "2024-10-28",
+  "customer": "Customer One",
+  "customer_name": "Customer One",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 10.0,
+  "make": "Make one",
+  "modified": "2024-10-28 18:15:11.452414",
+  "name": "Test240001",
+  "phone_number": "9805109361",
+  "price_per_km": 70.0,
+  "return_date": "2024-10-28",
+  "services": [
+   {
+    "amount": 500.0,
+    "parent": "Test240001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "WiFi Access"
+   }
+  ],
+  "total_amount": 1200.0,
+  "type": "Type One",
+  "vehicle": "Test"
+ },
+ {
+  "booking_date": "2024-10-28",
+  "customer": "Customer Two",
+  "customer_name": "Customer Two",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 10.0,
+  "make": "Make Two",
+  "modified": "2024-10-28 18:15:31.005240",
+  "name": "Two240002",
+  "phone_number": null,
+  "price_per_km": 60.0,
+  "return_date": "2024-10-28",
+  "services": [
+   {
+    "amount": 500.0,
+    "parent": "Two240002",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "WiFi Access"
+   },
+   {
+    "amount": 1000.0,
+    "parent": "Two240002",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   }
+  ],
+  "total_amount": 2100.0,
+  "type": "Type Two",
+  "vehicle": "Two"
+ },
+ {
+  "booking_date": "2024-10-28",
+  "customer": "Customer Two",
+  "customer_name": "Customer Two",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 10.0,
+  "make": "Make Three",
+  "modified": "2024-10-28 18:15:53.954298",
+  "name": "Three240003",
+  "phone_number": null,
+  "price_per_km": 90.0,
+  "return_date": "2024-10-28",
+  "services": [
+   {
+    "amount": 500.0,
+    "parent": "Three240003",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "WiFi Access"
+   },
+   {
+    "amount": 1000.0,
+    "parent": "Three240003",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Travel Insurance"
+   },
+   {
+    "amount": 1500.0,
+    "parent": "Three240003",
+    "parentfield": "services",
+    "parenttype": "Ride Booking",
+    "service": "Tourist Guides"
+   }
+  ],
+  "total_amount": 3900.0,
+  "type": "Type Three",
+  "vehicle": "Three"
+ }
+]

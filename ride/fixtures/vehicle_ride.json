@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Make one",
+  "modified": "2024-10-28 17:49:41.781848",
+  "name": "Test",
+  "price_per_km": 70.0,
+  "type": "Type One"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Make Two",
+  "modified": "2024-10-28 17:50:08.988272",
+  "name": "Two",
+  "price_per_km": 60.0,
+  "type": "Type Two"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Make Three",
+  "modified": "2024-10-28 17:50:26.477533",
+  "name": "Three",
+  "price_per_km": 90.0,
+  "type": "Type Three"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "negisahil24@gmail.com",
+  "email_ids": [
+   {
+    "email_id": "negisahil24@gmail.com",
+    "is_primary": 1,
+    "parent": "Sahil Negi",
+    "parentfield": "email_ids",
+    "parenttype": "Contact"
+   }
+  ],
+  "first_name": "Sahil",
+  "full_name": "Sahil Negi",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": "",
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": "Negi",
+  "links": [],
+  "middle_name": null,
+  "mobile_no": "",
+  "modified": "2024-10-28 17:42:15.039729",
+  "name": "Sahil Negi",
+  "phone": "",
+  "phone_nos": [],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": "negisahil24@gmail.com"
+ },
+ {
+  "address": null,
+  "company_name": null,
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Contact",
+  "email_id": "",
+  "email_ids": [],
+  "first_name": "Customer One",
+  "full_name": "Customer One",
+  "gender": null,
+  "google_contacts": null,
+  "google_contacts_id": null,
+  "image": null,
+  "is_billing_contact": 0,
+  "is_primary_contact": 0,
+  "last_name": null,
+  "links": [
+   {
+    "link_doctype": "Customer",
+    "link_name": "Customer One",
+    "link_title": "Customer One",
+    "parent": "Customer One-Customer One",
+    "parentfield": "links",
+    "parenttype": "Contact"
+   }
+  ],
+  "middle_name": null,
+  "mobile_no": "9805109361",
+  "modified": "2024-10-28 18:06:40.619291",
+  "name": "Customer One-Customer One",
+  "phone": "9805109361",
+  "phone_nos": [
+   {
+    "is_primary_mobile_no": 1,
+    "is_primary_phone": 1,
+    "parent": "Customer One-Customer One",
+    "parentfield": "phone_nos",
+    "parenttype": "Contact",
+    "phone": "9805109361"
+   }
+  ],
+  "pulled_from_google_contacts": 0,
+  "salutation": null,
+  "status": "Passive",
+  "sync_with_google_contacts": 0,
+  "unsubscribed": 0,
+  "user": null
+ }
+]
